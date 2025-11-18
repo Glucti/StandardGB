@@ -1,0 +1,3 @@
+-Iincludes
+-std=c99
+
